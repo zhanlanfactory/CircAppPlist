@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<!-- <string>http://clgkresource.365yunxueyuan.com/chinalife.ipa</string> -->
+					<string>http://118.190.114.116:8087/www/phoneDownload/CiitcApp.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://www.zhangjiaqing.com/www/phoneDownload/ios57.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://www.zhangjiaqing.com/www/phoneDownload/ios512.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.e-chinalife.Yidongxuexi</string>
+				<key>bundle-version</key>
+				<string>1.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>¹úÊÙÒ×Ñ§</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
