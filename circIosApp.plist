@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- <string>http://clgkresource.365yunxueyuan.com/chinalife.ipa</string> -->
-					<string>http://118.190.114.116:8087/www/phoneDownload/CiitcApp.ipa</string>
+					<string>http://118.190.114.116:8087/www/phoneDownload/CirtcApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -36,7 +36,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>¹úÊÙÒ×Ñ§</string>
+				<string>保监会</string>
 			</dict>
 		</dict>
 	</array>
